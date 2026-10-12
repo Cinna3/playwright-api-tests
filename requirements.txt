@@ -2,3 +2,4 @@ playwright==1.63.0
 pytest==9.1.1
 pytest-playwright==0.9.0
 pytest-html==4.2.0
+qa-framework @ git+https://github.com/Cinna3/playwright-qa-framework.git
